@@ -20,9 +20,7 @@ elif (user_choice == "rock" and computer_choice == "scissor") or \
      (user_choice == "scissor" and computer_choice == "paper"):
     print(" Congratulations you win🎉 ")
 
-elif (user_choice == "rock" and computer_choice == "paper") or \
-     (user_choice == "paper" and computer_choice == "scissor") or \
-     (user_choice == "scissor" and computer_choice == "rock"):
+elif user_choice in choices:
     print("Sorry you lose! 😢 ")
 
 else:
