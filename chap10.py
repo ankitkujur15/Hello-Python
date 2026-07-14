@@ -79,18 +79,3 @@ def substraction(a, b):
       print(b - a)
 
 substraction(b = 30, a = 50)  #order dosen't matter
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
