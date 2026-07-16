@@ -1,0 +1,3 @@
+# variables
+
+# will start tomorrow
