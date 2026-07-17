@@ -81,7 +81,3 @@ for i in range(len(l) - 1):
         break
 else:
     print("your list is sorted")
-
-
-
-
