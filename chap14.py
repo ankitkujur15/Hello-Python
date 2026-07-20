@@ -18,7 +18,7 @@ s = {10, 20, 30, 40}
 for i in s:
     print(i)             # print the values unordered
 
-# methods
+# single set methods
 
 s.add(60)             # add element in set
 print(s)
@@ -33,3 +33,44 @@ print(s)
 
 s.pop()              # removes the random element from a set
 print(s)    
+
+# multiple set methods
+
+s1 = {10, 20, 30, 40, 50}
+s2 = {30, 40, 50, 60, 70}
+
+# difference  (-)
+
+print(s1.difference(s2))      # returns the difference of two sets  or 
+print(s1 - s2)
+
+
+
+# differene_update ( -= )
+s2 -= s1
+print(s2)
+
+# intersection ( & )
+
+print(s1. intersection(s2)) # or ->  s1 & s2
+
+# intersecton update ( &= )
+s1 &= s1
+
+#is subset ( <= )
+
+s3 = {30, 40}
+
+print(s3 <= s2)
+
+# super set ( >= )
+
+# symmetric difference ( ^ )
+
+print(s1 ^ s2)
+
+# symmetric_difference_update	( ^= )
+
+# union
+
+print(s1 | s2)
