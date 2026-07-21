@@ -1,3 +1,6 @@
+# Comments and Variables
+
+
 #this line is a comment
 print("hello boi!!!")
 
@@ -31,27 +34,3 @@ print(sher)
 3. Snake Case: my_variable_name
      sherians_x_nyc = 34             // python prefers to this one
 """
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
