@@ -1,3 +1,7 @@
+# STRINGS AND TYPE CONVERSION
+
+
+
 # how string works in python
 #each character stored in a string has its own uniqueCode -> point value
 

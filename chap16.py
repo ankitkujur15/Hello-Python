@@ -1,4 +1,4 @@
-# Exception handling in python
+# EXCEPTION HANDLING in python
 
 """
 Errors vs Exceptions

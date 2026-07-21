@@ -1,4 +1,5 @@
-# dictionary
+# DICTIONARY  - mutable, unordered, key-value pairs
+
 """
 A dictionary stores data as key: value pairs — 
 like a real dictionary where you look up a word (key) to find its meaning (value).

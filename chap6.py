@@ -1,4 +1,4 @@
-# Conditional statements in Python
+# CONDITIONAL STATEMENTS
 
 # they make decisions based on certain conditions.
 

@@ -1,4 +1,4 @@
-# Tuple  - immutable
+# TUPLES  - immutable
 """
 A tuple is exactly like a list, except you cannot change it once created. 
 Use tuples for data that should stay constant — 

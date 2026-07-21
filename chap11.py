@@ -1,5 +1,5 @@
 
-# Data structures
+# DATA STRUCTURES
 
 """
 The 4 Built-in Data Structures

@@ -1,4 +1,4 @@
-# Loops
+# LOOPS
 
 """
 Loops let you repeat a block of code without rewriting it.

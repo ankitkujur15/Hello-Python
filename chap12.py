@@ -1,4 +1,4 @@
-# List
+# LISTS  - mutable, ordered, allows duplicates
 
 # ordered nature  ---- you can access any element at any point of time 
 

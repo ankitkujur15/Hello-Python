@@ -1,4 +1,5 @@
-# For Loop - for Numbers (always have to use range() fun)
+# FOR LOOP  - for Numbers (always have to use range() fun)
+
 """
 * The range() Function
 range() generates a sequence of numbers. Think of it as saying "count from here to there".

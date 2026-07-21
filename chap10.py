@@ -1,4 +1,4 @@
-# Function  reusable block of code
+# FUNCTIONS       ->  reusable block of code
 
 
 # implicit (pre-defined) function
